@@ -8,7 +8,7 @@
 Forecast daily sales with a clean, reproducible pipeline using a **Seasonal ARIMA (SARIMA)** model. Built as a template you can point at your own CSV and extend with exogenous features, cross-validation, or alternative models.
 
 ## Why this repo
-- **Recruiter-ready**: clear problem, clean structure, quick results.
+- **: clear problem, clean structure, quick results.
 - **Reproducible**: single-entry script and pinned dependencies.
 - **Extensible**: swap in your data/model without breaking layout.
 
